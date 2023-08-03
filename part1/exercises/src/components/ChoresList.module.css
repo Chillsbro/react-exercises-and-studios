@@ -1,7 +1,9 @@
 .choresText {
-   color: black;
+   color: rgb(35, 209, 0);
+   font-size: 1.9rem;
 }
 
 .choresHeading {
-   color: black;
+   color: rgb(140, 0, 255);
+   
 }
